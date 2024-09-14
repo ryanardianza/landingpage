@@ -1,0 +1,59 @@
+#home{
+  background-image: url('foto1.png');
+  background-position: center;
+  background-size: cover;
+}
+
+.section-padding{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.text-brand{
+  color: green;
+}
+
+.line{
+  padding-top: 50px;
+}
+
+.secrion-id{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section-contak{
+  padding-top: 60px;
+}
+
+.section-center{
+  padding-top: 50px;
+}
+
+.section-title{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+footer{
+  background-color: #212237;
+}
+
+footer h4{
+  color: white;
+  padding-top: 85px;
+}
+
+.mb-0{
+  color: white;
+}
+
+footer p,
+footer li,
+footer li{
+  color: rgba(255,255,255,0.7);
+}
+
+.p{
+  color: rgba(255,255,255,0.7);
+}
